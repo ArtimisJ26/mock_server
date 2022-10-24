@@ -11,3 +11,5 @@ app.get('/api/data/2.5/weather', dataController.getData);
 const port = 3002;
 
 app.listen(process.env.PORT || port);
+
+module.exports = app;
