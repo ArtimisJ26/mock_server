@@ -12,6 +12,10 @@
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
+  "scripts":{
+    "test": "echo \"Error: notest specified\"&& exit 1",
+    "start": "node index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ArtimisJ26/mock_server.git"
@@ -19,8 +23,15 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "16.17.1"
+  },
   "bugs": {
     "url": "https://github.com/ArtimisJ26/mock_server/issues"
   },
   "homepage": "https://github.com/ArtimisJ26/mock_server#readme"
+  
 }
