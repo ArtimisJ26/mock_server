@@ -7,5 +7,20 @@
   },
   "dependencies": {
     "nodemon": "^2.0.20"
-  }
+  },
+  "name": "mock_server",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ArtimisJ26/mock_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ArtimisJ26/mock_server/issues"
+  },
+  "homepage": "https://github.com/ArtimisJ26/mock_server#readme"
 }
